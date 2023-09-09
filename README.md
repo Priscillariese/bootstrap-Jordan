@@ -31,4 +31,4 @@ Here are some images of the site that show how it looks in practice. Explore the
 
  ## Link
 
- Project: 
+ Project: https://priscillariese.github.io/bootstrap-Jordan/
